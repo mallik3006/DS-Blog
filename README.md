@@ -6,7 +6,7 @@ Every year, Stack Overflow conducts a massive survey of people on the site, cove
 
 ### Data
 
-The data is taken from Kaggle link [here](https://www.kaggle.com/stackoverflow/so-survey-2017) and it is  made up of two files:
+The data is downloaded from Kaggle link [here](https://www.kaggle.com/stackoverflow/so-survey-2017) and it is  made up of two files:
 
 `survey_results_public.csv` - CSV file with main survey results, one respondent per row and one column per answer
 `survey_results_schema.csv` - CSV file with survey schema, i.e., the questions that correspond to each column name
