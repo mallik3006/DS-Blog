@@ -13,13 +13,13 @@ The data is taken from Kaggle link [here](https://www.kaggle.com/stackoverflow/s
 
 ### Analysis
 
-Exploratory Daya analysis has been done with the data provided to draw useful insights. The data has an array of questions which are responsed by the developers. Majority of the features are categorical and the responses in most of them are in an ordinal fashion. As part of the EDA, extensive data wrangling was done to derive inferenence using the responses and it may be noted that data wrangling process itself was sufficient enough to answer some inteeresting questions without having to do further modeling.
+Exploratory Daya analysis has been done with the data provided to draw useful insights. The data includes an array of questions which are responsed by the developers. Majority of the features are categorical and the responses in most of them are in an ordinal fashion. As part of the EDA, extensive data wrangling was done to derive inferenence using the responses and it may be noted that data wrangling process itself was sufficient enough to answer some inteeresting questions without having to do further modeling.
 
 The analysis has led to answers for the following 3 questions:
 
-* What are the  most popular programming languages?
+* What are the most popular programming languages?
 * Once a coder, always a coder - or is it?
 * What Skills are perceived as most important to get hired by a Tech firm
 
-Please follow the blog [here](https://medium.com/@myemailidus.9/what-the-software-developer-community-has-to-say-f314c2b848da) for the  details
+Please follow the blog [here](https://medium.com/@myemailidus.9/what-the-software-developer-community-has-to-say-f314c2b848da) for the  details.
 
