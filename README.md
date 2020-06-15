@@ -13,7 +13,7 @@ The data is downloaded from Kaggle link [here](https://www.kaggle.com/stackoverf
 
 ### Analysis
 
-Exploratory Daya analysis has been done with the data provided to draw useful insights. The data includes an array of questions which are responsed by the developers. Majority of the features are categorical and the responses in most of them are in an ordinal fashion. As part of the EDA, extensive data wrangling was done to derive inferences using the responses and it may be noted that data wrangling process itself was sufficient enough to answer some interesting questions without having to do further modeling.
+Exploratory Data analysis has been done with the data provided to draw useful insights. The data includes an array of questions which are responsed by the developers. Majority of the features are categorical and the responses in most of them are in an ordinal fashion. As part of the EDA, extensive data wrangling was done to derive inferences using the responses and it may be noted that data wrangling process itself was sufficient enough to answer some interesting questions without having to do further modeling.
 
 The analysis has led to answers for the following 3 questions:
 
