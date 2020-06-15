@@ -11,6 +11,14 @@ The data is downloaded from Kaggle link [here](https://www.kaggle.com/stackoverf
 `survey_results_public.csv` - CSV file with main survey results, one respondent per row and one column per answer
 `survey_results_schema.csv` - CSV file with survey schema, i.e., the questions that correspond to each column name
 
+### Libraries
+
+Following are the main libraries used
+
+* `pandas`
+* `matplotlob'
+* `seaborn`
+
 ### Analysis
 
 Exploratory Data analysis has been done with the data provided to draw useful insights. The data includes an array of questions which are responsed by the developers. Majority of the features are categorical and the responses in most of them are in an ordinal fashion. As part of the EDA, extensive data wrangling was done to derive inferences using the responses and it may be noted that data wrangling process itself was sufficient enough to answer some interesting questions without having to do further modeling.
