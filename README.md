@@ -16,7 +16,7 @@ The data is downloaded from Kaggle link [here](https://www.kaggle.com/stackoverf
 Following are the main libraries used
 
 * `pandas`
-* `matplotlob'
+* `matplotlob`
 * `seaborn`
 
 ### Analysis
