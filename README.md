@@ -1,4 +1,4 @@
-# DS-Blog
+# DS-EDA-Blog
 
 ### Introduction
 
@@ -16,7 +16,7 @@ The data is downloaded from Kaggle link [here](https://www.kaggle.com/stackoverf
 Following are the main libraries used
 
 * `pandas`
-* `matplotlob`
+* `matplotlib`
 * `seaborn`
 
 ### Analysis
